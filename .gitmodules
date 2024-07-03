@@ -1,3 +1,6 @@
 [submodule "admin-service"]
 	path = admin-service
 	url = https://github.com/IgnacioPuigMargalef/admin-service.git
+[submodule "gateway-service"]
+	path = gateway-service
+	url = https://github.com/IgnacioPuigMargalef/gateway-service.git
