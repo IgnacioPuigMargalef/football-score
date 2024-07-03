@@ -1,0 +1,3 @@
+[submodule "admin-service"]
+	path = admin-service
+	url = https://github.com/IgnacioPuigMargalef/admin-service.git
