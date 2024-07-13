@@ -7,3 +7,9 @@
 [submodule "docker-setup"]
 	path = docker-setup
 	url = https://github.com/IgnacioPuigMargalef/docker-setup.git
+[submodule "club-service"]
+	path = club-service
+	url = ../club-service
+[submodule "match-service"]
+	path = match-service
+	url = ../match-service
