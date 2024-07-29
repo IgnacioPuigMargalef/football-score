@@ -13,3 +13,6 @@
 [submodule "match-service"]
 	path = match-service
 	url = ../match-service
+[submodule "event-service"]
+	path = event-service
+	url = ../event-service/
